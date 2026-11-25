@@ -1,5 +1,7 @@
 # DZNT Lead Follow-up Demo
 
+[![Tests](https://github.com/saint7dio/dznt-lead-follow-up-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/saint7dio/dznt-lead-follow-up-demo/actions/workflows/ci.yml)
+
 Ein ausführbares Beispiel für die Entscheidung, ob ein Lead ein Follow-up erhält. Die Demo arbeitet mit synthetischen Ereignissen und einem simulierten Versand.
 
 ## Ausführen
